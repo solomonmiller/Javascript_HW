@@ -1,0 +1,16 @@
+.form-control {
+  display: inline-block;
+  width: 250px;
+  margin-top: 50px;
+}
+
+h1 {
+    font-size: 40px;
+    background: greenyellow;
+    color: ghostwhite;
+    text-align: center;
+    padding: 60px;
+    margin: 0;
+
+  }
+  
